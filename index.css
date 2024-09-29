@@ -113,9 +113,9 @@ body{
         border: none;
         border-radius: 20px;
         box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
-        font-size: 8vmin;
+        font-size: 11vmin;
         font-weight: bold;
-        padding-left: 40px;
+        padding-left: 34px;
         background-color: #F1FAEE;
         color: black;
     }
